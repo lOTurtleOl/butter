@@ -1,0 +1,132 @@
+/*
+        
+        
+        Name: Andrew Hughes
+        Date: 3/17/2024
+        Assignment: Professional Webpage
+        Filename: professional03
+    
+    
+*/
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: navy;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: yellow;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: navy;
+    font-size: 36px;
+    margin: 10px 0;
+    font-weight: bold;
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+p {
+    color: #696969;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #FFD700;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+    border: solid;
+    border-color: black;
+}
+
+
+li {
+    color: white;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
+li a:hover {
+    background-color: #111;
+}
+
+
+ol {
+
+    float: left;
+    overflow: hidden;
+    background-color: #333;
+    background-color: #f1f1f1;
+    text-align: center;
+    width: 100%;
+}
+
+
+ol>li {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    width: 33%;
+}
+
+.container p {
+    color: white;
+    font-weight: bold;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li>img {
+    max-width: 80%;
+}
+
+body>p {
+    color: white;
+}
+
+.beginnings {
+    background-image: linear-gradient(yellow, blue);
+}
